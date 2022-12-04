@@ -1,4 +1,4 @@
-@extends('Layout.main')
+@extends('Lgit ayout.main')
 
 @section('content')
     <div class="div ps-5">
